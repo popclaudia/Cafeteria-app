@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_181" class="java.beans.XMLDecoder">
+ <object class="model.Prajitura">
+  <void property="denumire">
+   <string>Albinita</string>
+  </void>
+  <void property="pret">
+   <int>30</int>
+  </void>
+  <void property="stoc">
+   <int>34</int>
+  </void>
+  <void property="valabilitate">
+   <object class="java.util.Date">
+    <long>61545906000000</long>
+   </object>
+  </void>
+ </object>
+ <object class="model.Prajitura">
+  <void property="denumire">
+   <string>Negresa</string>
+  </void>
+  <void property="pret">
+   <int>15</int>
+  </void>
+  <void property="stoc">
+   <int>100</int>
+  </void>
+  <void property="valabilitate">
+   <object class="java.util.Date">
+    <long>61548930000000</long>
+   </object>
+  </void>
+ </object>
+ <object class="model.Prajitura">
+  <void property="denumire">
+   <string>Tort caramel</string>
+  </void>
+  <void property="pret">
+   <int>80</int>
+  </void>
+  <void property="stoc">
+   <int>3</int>
+  </void>
+  <void property="valabilitate">
+   <object class="java.util.Date">
+    <long>61546683600000</long>
+   </object>
+  </void>
+ </object>
+ <object class="model.Prajitura">
+  <void property="denumire">
+   <string>Tort fructe</string>
+  </void>
+  <void property="pret">
+   <int>75</int>
+  </void>
+  <void property="stoc">
+   <int>7</int>
+  </void>
+  <void property="valabilitate">
+   <object class="java.util.Date">
+    <long>61546683600000</long>
+   </object>
+  </void>
+ </object>
+ <object class="model.Prajitura">
+  <void property="denumire">
+   <string>Cremes</string>
+  </void>
+  <void property="pret">
+   <int>6</int>
+  </void>
+  <void property="stoc">
+   <int>54</int>
+  </void>
+  <void property="valabilitate">
+   <object class="java.util.Date">
+    <long>61546683600000</long>
+   </object>
+  </void>
+ </object>
+ <object class="model.Prajitura">
+  <void property="denumire">
+   <string>Ecler</string>
+  </void>
+  <void property="pret">
+   <int>6</int>
+  </void>
+  <void property="stoc">
+   <int>50</int>
+  </void>
+  <void property="valabilitate">
+   <object class="java.util.Date">
+    <long>61546683600000</long>
+   </object>
+  </void>
+ </object>
+ <object class="model.Prajitura">
+  <void property="denumire">
+   <string>Tiramisu</string>
+  </void>
+  <void property="pret">
+   <int>9</int>
+  </void>
+  <void property="stoc">
+   <int>26</int>
+  </void>
+  <void property="valabilitate">
+   <object class="java.util.Date">
+    <long>61547115600000</long>
+   </object>
+  </void>
+ </object>
+ <object class="model.Prajitura">
+  <void property="denumire">
+   <string>Macarons</string>
+  </void>
+  <void property="pret">
+   <int>12</int>
+  </void>
+  <void property="stoc">
+   <int>70</int>
+  </void>
+  <void property="valabilitate">
+   <object class="java.util.Date">
+    <long>61547115600000</long>
+   </object>
+  </void>
+ </object>
+ <object class="model.Prajitura">
+  <void property="denumire">
+   <string>Fursecuri</string>
+  </void>
+  <void property="pret">
+   <int>8</int>
+  </void>
+  <void property="stoc">
+   <int>200</int>
+  </void>
+  <void property="valabilitate">
+   <object class="java.util.Date">
+    <long>61547115600000</long>
+   </object>
+  </void>
+ </object>
+ <object class="model.Prajitura">
+  <void property="denumire">
+   <string>Croissant ciocolata</string>
+  </void>
+  <void property="pret">
+   <int>4</int>
+  </void>
+  <void property="stoc">
+   <int>70</int>
+  </void>
+  <void property="valabilitate">
+   <object class="java.util.Date">
+    <long>61548498000000</long>
+   </object>
+  </void>
+ </object>
+ <object class="model.Prajitura">
+  <void property="denumire">
+   <string>Tort frisca</string>
+  </void>
+  <void property="pret">
+   <int>60</int>
+  </void>
+  <void property="stoc">
+   <int>5</int>
+  </void>
+  <void property="valabilitate">
+   <object class="java.util.Date">
+    <long>61546683600000</long>
+   </object>
+  </void>
+ </object>
+ <object class="model.Prajitura">
+  <void property="denumire">
+   <string>Cheesecake cu fructe de padure</string>
+  </void>
+  <void property="pret">
+   <int>18</int>
+  </void>
+  <void property="stoc">
+   <int>40</int>
+  </void>
+  <void property="valabilitate">
+   <object class="java.util.Date">
+    <long>61546683600000</long>
+   </object>
+  </void>
+ </object>
+ <object class="model.Prajitura">
+  <void property="denumire">
+   <string>Tarta cu mere</string>
+  </void>
+  <void property="pret">
+   <int>5</int>
+  </void>
+  <void property="stoc">
+   <int>32</int>
+  </void>
+  <void property="valabilitate">
+   <object class="java.util.Date">
+    <long>61546683600000</long>
+   </object>
+  </void>
+ </object>
+ <object class="model.Prajitura">
+  <void property="denumire">
+   <string>Lamaita</string>
+  </void>
+  <void property="pret">
+   <int>8</int>
+  </void>
+  <void property="stoc">
+   <int>46</int>
+  </void>
+  <void property="valabilitate">
+   <object class="java.util.Date">
+    <long>61548411600000</long>
+   </object>
+  </void>
+ </object>
+</java>

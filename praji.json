@@ -1,0 +1,89 @@
+{
+  "Prajituri": [
+    
+    {
+      "Stoc": 34,
+      "Pret": 30,
+      "Denumire": "Albinita",
+      "Valabilitate": "25-3-2020"
+    },
+    {
+      "Stoc": 100,
+      "Pret": 15,
+      "Denumire": "Negresa",
+      "Valabilitate": "30-4-2020"
+    },
+    {
+      "Stoc": 3,
+      "Pret": 80,
+      "Denumire": "Tort caramel",
+      "Valabilitate": "4-4-2020"
+    },
+    {
+      "Stoc": 7,
+      "Pret": 75,
+      "Denumire": "Tort fructe",
+      "Valabilitate": "4-4-2020"
+    },
+    {
+      "Stoc": 54,
+      "Pret": 6,
+      "Denumire": "Cremes",
+      "Valabilitate": "4-4-2020"
+    },
+    {
+      "Stoc": 50,
+      "Pret": 6,
+      "Denumire": "Ecler",
+      "Valabilitate": "4-4-2020"
+    },
+    {
+      "Stoc": 26,
+      "Pret": 9,
+      "Denumire": "Tiramisu",
+      "Valabilitate": "9-4-2020"
+    },
+    {
+      "Stoc": 70,
+      "Pret": 12,
+      "Denumire": "Macarons",
+      "Valabilitate": "9-4-2020"
+    },
+    {
+      "Stoc": 200,
+      "Pret": 8,
+      "Denumire": "Fursecuri",
+      "Valabilitate": "9-4-2020"
+    },
+    {
+      "Stoc": 70,
+      "Pret": 4,
+      "Denumire": "Croissant ciocolata",
+      "Valabilitate": "25-4-2020"
+    },
+    {
+      "Stoc": 5,
+      "Pret": 60,
+      "Denumire": "Tort frisca",
+      "Valabilitate": "4-4-2020"
+    },
+    {
+      "Stoc": 40,
+      "Pret": 18,
+      "Denumire": "Cheesecake cu fructe de padure",
+      "Valabilitate": "4-4-2020"
+    },
+    {
+      "Stoc": 32,
+      "Pret": 5,
+      "Denumire": "Tarta cu mere",
+      "Valabilitate": "4-4-2020"
+    },
+    {
+      "Stoc": 46,
+      "Pret": 8,
+      "Denumire": "Lamaita",
+      "Valabilitate": "24-4-2020"
+    }
+  ]
+}
